@@ -1,0 +1,672 @@
+Archive member included because of file (symbol)
+
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              Timer_driver.o (__addsf3)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              Timer_driver.o (__fixunssfsi)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              Timer_driver.o (__mulsf3)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+                              UART_driver.o (__udivmodsi4)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+                              c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+                              DIO_driver.o (__do_copy_data)
+c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                              DIO_driver.o (__do_clear_bss)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+LOAD DIO_driver.o
+LOAD EEPROM_driver.o
+LOAD EXT._Interrupt.o
+LOAD LCD_driver.o
+LOAD LED_driver.o
+LOAD Master_B.o
+LOAD Show_Menu.o
+LOAD SPI_driver.o
+LOAD Timer_driver.o
+LOAD UART_driver.o
+START GROUP
+LOAD c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a
+END GROUP
+LOAD c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a
+LOAD c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1c9e
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_11
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092      0x65a DIO_driver.o
+                0x00000092                DIO_set_PINDir
+                0x000001b4                DIO_Write
+                0x000002d6                DIO_u8read
+                0x000003a0                DIO_Toggle
+                0x0000043a                DIO_SET_Port_Direction
+                0x00000478                DIO_WRITE_PORT
+                0x000004b6                DIO_Read_PORT
+                0x000004f8                DIO_vConnectPullup
+                0x0000061a                DIO_Write_Low_Nibble
+                0x00000682                DIO_Write_High_Nibble
+ .text          0x000006ec       0x1a EEPROM_driver.o
+                0x000006ec                EEPROM_Write
+                0x000006fc                EEPROM_Read
+ .text          0x00000706       0x40 EXT._Interrupt.o
+                0x00000706                INT0_vInit
+                0x00000726                INT1_vInit
+ .text          0x00000746      0x1e8 LCD_driver.o
+                0x00000774                LCD_vSend_Cmd
+                0x000007b8                LCD_vInit
+                0x00000876                LCD_vSend_char
+                0x000008ba                LCD_vSend_String
+                0x000008d8                LCD_Clear_Screen
+                0x000008ec                LCD_Move_Cursor
+ .text          0x0000092e       0x1e LED_driver.o
+                0x0000092e                LED_vInit
+                0x00000936                LED_vTurnOn
+                0x0000093e                LED_vTurnOFF
+                0x00000946                LED_vToggle
+ .text          0x0000094c      0xce4 Master_B.o
+                0x0000094c                main
+                0x000014de                __vector_10
+                0x0000150c                __vector_1
+                0x00001564                __vector_2
+                0x000015b8                __vector_5
+ .text          0x00001630      0x1ee Show_Menu.o
+                0x00001630                Menu_Options
+ .text          0x0000181e       0x62 SPI_driver.o
+                0x0000181e                SPI_MasterInit
+                0x0000184e                SPI_SlaveInit
+                0x0000185c                SPI_MasterTransmitchar
+                0x00001876                SPI_SlaveReceiverchar
+ .text          0x00001880       0xc4 Timer_driver.o
+                0x00001880                Timer_Stop_CTC
+                0x00001894                Timer_CTC_Init_interrupt
+                0x000018c0                Timer2_OverFlow_Init_interrupt
+                0x000018dc                Timer2_Stop_OverFlow
+                0x000018ea                Timer1_wave_fastPWM_servo_postive
+ .text          0x00001944       0x88 UART_driver.o
+                0x00001944                UART_vInit
+                0x0000198a                UART_vSendData
+                0x00001992                UART_u8ReceiveData
+                0x0000199c                UART_vSendString
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x000019cc        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                0x000019cc                . = ALIGN (0x2)
+ *(.text.*)
+ .text.avr-libc.fplib
+                0x000019cc        0xa c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x000019cc                __subsf3
+                0x000019ce                __addsf3
+ .text.avr-libc.fplib
+                0x000019d6       0xc0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x000019f0                __addsf3x
+ .text.avr-libc.fplib
+                0x00001a96       0x58 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00001a96                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00001aee        0xc c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00001aee                __fp_inf
+ .text.avr-libc.fplib
+                0x00001afa        0x6 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001afa                __fp_nan
+ .text.avr-libc.fplib
+                0x00001b00        0xe c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00001b00                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001b0e        0xe c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001b0e                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001b1c       0x22 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00001b1c                __fp_round
+ .text.avr-libc.fplib
+                0x00001b3e       0x44 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00001b3e                __fp_split3
+                0x00001b4e                __fp_splitA
+ .text.avr-libc.fplib
+                0x00001b82        0xe c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00001b82                __fp_zero
+                0x00001b84                __fp_szero
+ .text.avr-libc.fplib
+                0x00001b90        0x4 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00001b90                __mulsf3
+ .text.avr-libc.fplib
+                0x00001b94       0xc2 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00001ba8                __mulsf3x
+                0x00001bac                __mulsf3_pse
+ .text.libgcc   0x00001c56       0x44 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001c56                __udivmodsi4
+ .text.libgcc   0x00001c9a        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00001c9a        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00001c9a        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+                0x00001c9a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001c9a        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+                0x00001c9a                _exit
+                0x00001c9a                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001c9a        0x4 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001c9e                _etext = .
+
+.data           0x00800060      0x224 load address 0x00001c9e
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 DIO_driver.o
+ .data          0x00800060        0x0 EEPROM_driver.o
+ .data          0x00800060        0x0 EXT._Interrupt.o
+ .data          0x00800060        0x0 LCD_driver.o
+ .data          0x00800060        0x0 LED_driver.o
+ .data          0x00800060      0x1c7 Master_B.o
+                0x00800225                show_menu
+                0x00800226                Key_Pressed
+ .data          0x00800227       0x5c Show_Menu.o
+ .data          0x00800283        0x0 SPI_driver.o
+ .data          0x00800283        0x0 Timer_driver.o
+ .data          0x00800283        0x0 UART_driver.o
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800283        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800284                . = ALIGN (0x2)
+ *fill*         0x00800283        0x1 00
+                0x00800284                _edata = .
+                0x00800284                PROVIDE (__data_end, .)
+
+.bss            0x00800284        0x4
+                0x00800284                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800284        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800284        0x0 DIO_driver.o
+ .bss           0x00800284        0x0 EEPROM_driver.o
+ .bss           0x00800284        0x0 EXT._Interrupt.o
+ .bss           0x00800284        0x0 LCD_driver.o
+ .bss           0x00800284        0x0 LED_driver.o
+ .bss           0x00800284        0x4 Master_B.o
+                0x00800284                secondes_counter
+                0x00800285                TIME_OUT_FLAG
+                0x00800286                Session_Counter
+ .bss           0x00800288        0x0 Show_Menu.o
+ .bss           0x00800288        0x0 SPI_driver.o
+ .bss           0x00800288        0x0 Timer_driver.o
+ .bss           0x00800288        0x0 UART_driver.o
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800288        0x0 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ *(.bss*)
+ *(COMMON)
+                0x00800288                PROVIDE (__bss_end, .)
+                0x00001c9e                __data_load_start = LOADADDR (.data)
+                0x00001ec2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800288        0x0
+                0x00800288                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800288                PROVIDE (__noinit_end, .)
+                0x00800288                _end = .
+                0x00800288                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x1890
+ *(.stab)
+ .stab          0x00000000      0x6cc c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+ .stab          0x000006cc       0x78 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                 0x84 (size before relaxing)
+ .stab          0x00000744      0x4bc c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                                0x4c8 (size before relaxing)
+ .stab          0x00000c00      0x240 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                0x24c (size before relaxing)
+ .stab          0x00000e40       0x78 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                 0x84 (size before relaxing)
+ .stab          0x00000eb8       0x54 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                 0x60 (size before relaxing)
+ .stab          0x00000f0c       0x84 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                 0x90 (size before relaxing)
+ .stab          0x00000f90       0x84 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                 0x90 (size before relaxing)
+ .stab          0x00001014       0xfc c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                0x108 (size before relaxing)
+ .stab          0x00001110      0x1d4 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                0x1e0 (size before relaxing)
+ .stab          0x000012e4       0x90 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                 0x9c (size before relaxing)
+ .stab          0x00001374       0x48 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                 0x54 (size before relaxing)
+ .stab          0x000013bc      0x4d4 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                0x4e0 (size before relaxing)
+
+.stabstr        0x00000000      0x51f
+ *(.stabstr)
+ .stabstr       0x00000000      0x51f c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/../../../../avr/lib/avr5/crtm32.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 DIO_driver.o
+ .debug_aranges
+                0x00000020       0x20 EEPROM_driver.o
+ .debug_aranges
+                0x00000040       0x20 EXT._Interrupt.o
+ .debug_aranges
+                0x00000060       0x20 LCD_driver.o
+ .debug_aranges
+                0x00000080       0x20 LED_driver.o
+ .debug_aranges
+                0x000000a0       0x20 Master_B.o
+ .debug_aranges
+                0x000000c0       0x20 Show_Menu.o
+ .debug_aranges
+                0x000000e0       0x20 SPI_driver.o
+ .debug_aranges
+                0x00000100       0x20 Timer_driver.o
+ .debug_aranges
+                0x00000120       0x20 UART_driver.o
+ .debug_aranges
+                0x00000140       0x20 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000160       0x20 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000180       0x20 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x000001a0       0x20 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x1db3
+ *(.debug_info)
+ .debug_info    0x00000000      0x2d9 DIO_driver.o
+ .debug_info    0x000002d9       0xd2 EEPROM_driver.o
+ .debug_info    0x000003ab       0x93 EXT._Interrupt.o
+ .debug_info    0x0000043e      0x4b5 LCD_driver.o
+ .debug_info    0x000008f3      0x109 LED_driver.o
+ .debug_info    0x000009fc      0xa50 Master_B.o
+ .debug_info    0x0000144c      0x250 Show_Menu.o
+ .debug_info    0x0000169c       0xe9 SPI_driver.o
+ .debug_info    0x00001785       0xf8 Timer_driver.o
+ .debug_info    0x0000187d      0x1c2 UART_driver.o
+ .debug_info    0x00001a3f       0xdd c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_info    0x00001b1c       0xdd c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .debug_info    0x00001bf9       0xdd c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x00001cd6       0xdd c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x899
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xcf DIO_driver.o
+ .debug_abbrev  0x000000cf       0x83 EEPROM_driver.o
+ .debug_abbrev  0x00000152       0x4c EXT._Interrupt.o
+ .debug_abbrev  0x0000019e      0x15c LCD_driver.o
+ .debug_abbrev  0x000002fa       0x5a LED_driver.o
+ .debug_abbrev  0x00000354      0x17e Master_B.o
+ .debug_abbrev  0x000004d2      0x145 Show_Menu.o
+ .debug_abbrev  0x00000617       0x8b SPI_driver.o
+ .debug_abbrev  0x000006a2       0x72 Timer_driver.o
+ .debug_abbrev  0x00000714      0x135 UART_driver.o
+ .debug_abbrev  0x00000849       0x14 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x0000085d       0x14 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000871       0x14 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000885       0x14 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+
+.debug_line     0x00000000     0x12ca
+ *(.debug_line)
+ .debug_line    0x00000000      0x170 DIO_driver.o
+ .debug_line    0x00000170       0xee EEPROM_driver.o
+ .debug_line    0x0000025e       0xeb EXT._Interrupt.o
+ .debug_line    0x00000349      0x237 LCD_driver.o
+ .debug_line    0x00000580       0x49 LED_driver.o
+ .debug_line    0x000005c9      0x522 Master_B.o
+ .debug_line    0x00000aeb      0x1f3 Show_Menu.o
+ .debug_line    0x00000cde       0xf9 SPI_driver.o
+ .debug_line    0x00000dd7      0x100 Timer_driver.o
+ .debug_line    0x00000ed7      0x1a4 UART_driver.o
+ .debug_line    0x0000107b       0xa8 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_udivmodsi4.o)
+ .debug_line    0x00001123       0x88 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_exit.o)
+ .debug_line    0x000011ab       0x91 c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x0000123c       0x8e c:/users/20100/downloads/atmel setup_mtgesh gmbo/extensions/atmel/avrgcc/3.4.1.95/avrtoolchain/bin/../lib/gcc/avr/4.6.2/avr5\libgcc.a(_clear_bss.o)
+
+.debug_frame    0x00000000      0x50c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xb4 DIO_driver.o
+ .debug_frame   0x000000b4       0x34 EEPROM_driver.o
+ .debug_frame   0x000000e8       0x34 EXT._Interrupt.o
+ .debug_frame   0x0000011c       0xa0 LCD_driver.o
+ .debug_frame   0x000001bc       0x54 LED_driver.o
+ .debug_frame   0x00000210      0x160 Master_B.o
+ .debug_frame   0x00000370       0x7c Show_Menu.o
+ .debug_frame   0x000003ec       0x5c SPI_driver.o
+ .debug_frame   0x00000448       0x64 Timer_driver.o
+ .debug_frame   0x000004ac       0x60 UART_driver.o
+
+.debug_str      0x00000000      0x5c6
+ *(.debug_str)
+ .debug_str     0x00000000      0x18d DIO_driver.o
+                                0x1d1 (size before relaxing)
+ .debug_str     0x0000018d       0x4e EEPROM_driver.o
+                                0x117 (size before relaxing)
+ .debug_str     0x000001db       0x2c EXT._Interrupt.o
+                                 0xf5 (size before relaxing)
+ .debug_str     0x00000207       0xe1 LCD_driver.o
+                                0x1b3 (size before relaxing)
+ .debug_str     0x000002e8       0x41 LED_driver.o
+                                 0xbc (size before relaxing)
+ .debug_str     0x00000329       0xeb Master_B.o
+                                0x220 (size before relaxing)
+ .debug_str     0x00000414       0x7c Show_Menu.o
+                                0x1b4 (size before relaxing)
+ .debug_str     0x00000490       0x5c SPI_driver.o
+                                0x12a (size before relaxing)
+ .debug_str     0x000004ec       0x92 Timer_driver.o
+                                0x171 (size before relaxing)
+ .debug_str     0x0000057e       0x48 UART_driver.o
+                                0x19d (size before relaxing)
+
+.debug_loc      0x00000000     0x1a90
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x617 DIO_driver.o
+ .debug_loc     0x00000617       0x18 EEPROM_driver.o
+ .debug_loc     0x0000062f      0x133 LCD_driver.o
+ .debug_loc     0x00000762       0x98 LED_driver.o
+ .debug_loc     0x000007fa      0xe62 Master_B.o
+ .debug_loc     0x0000165c      0x2ee Show_Menu.o
+ .debug_loc     0x0000194a       0x6b SPI_driver.o
+ .debug_loc     0x000019b5       0x1e Timer_driver.o
+ .debug_loc     0x000019d3       0xbd UART_driver.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Master_B.elf elf32-avr)
+LOAD linker stubs
